@@ -1,9 +1,8 @@
 Movie App 🎬
 
+A React-based web application that allows users to search for movies, view details, and manage their favourite movies list. This project leverages the OMDB API to fetch movie data and provides a seamless user experience with a clean and responsive design.
 
-Welcome to the Movie App, a React-based web application that allows users to search for movies, view details, and manage their favourite movies list. This project leverages the OMDB API to fetch movie data and provides a seamless user experience with a clean and responsive design.
-
-Features ✨
+Features :
 
 1.) Search Movies: Search for your favourite movies by title using the OMDB API.
 
@@ -17,7 +16,7 @@ Features ✨
 
 6.) Interactive UI: Enjoy a sleek user interface with hover effects and smooth transitions.
 
-Technologies Used 🛠️
+Technologies Used : 
 
 1.) React: A JavaScript library for building user interfaces.
 
@@ -26,12 +25,6 @@ Technologies Used 🛠️
 3.) OMDB API: To fetch movie data.
 
 4.) Local Storage: To save and retrieve user favourites.
-
-5.) Progressive Web App (PWA): The app is PWA-ready, allowing users to install it on their devices.
-
-
-Visit http://localhost:3000 in your browser to view the app.
-
 
 License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
